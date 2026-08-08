@@ -1,0 +1,103 @@
+{
+  "slugs": [
+    "navbar15_component",
+    "section_header1",
+    "section_logo2",
+    "section_logo6",
+    "section_portfolio6",
+    "section_testimonial43",
+    "section_team13",
+    "section_pricing27",
+    "footer3_component"
+  ],
+  "files": [
+    {
+      "path": "components/relume/Navbar15.tsx",
+      "sourceSha256": "af862334445a0519358944238636a784aab89d8cd592c1b87ffb7a49a59c5ef1",
+      "sha256": "29a16c51e9d80b7f62098d181e14716f4b6a485922e9ee6117c5183385fc9746",
+      "compatibilityEdits": 4
+    },
+    {
+      "path": "components/relume/Header1.tsx",
+      "sourceSha256": "092cd6650365971f99d9970c0e08a4df012d6af6c461859c235bb746c18799f2",
+      "sha256": "092cd6650365971f99d9970c0e08a4df012d6af6c461859c235bb746c18799f2",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/relume/Logo2.tsx",
+      "sourceSha256": "ce2fcf15ed2564bbb50931e65cee7f1997f9ae28ed39b64a6a92bdfa2fb0e996",
+      "sha256": "3b3003df3a78932011f64c2418734ec93d661f404770b845ebb30e418a69433d",
+      "compatibilityEdits": 1
+    },
+    {
+      "path": "components/relume/Logo6.tsx",
+      "sourceSha256": "f2a3e5ac1749fb313221f9070aeeaf7a6ca97d493a11893707f563e9f0f65585",
+      "sha256": "d5b03ea656d7a82c6014e5989323351467e15dd6126ae69fce86b59b151984f2",
+      "compatibilityEdits": 1
+    },
+    {
+      "path": "components/relume/Portfolio6.tsx",
+      "sourceSha256": "4ab76dea53258001528389d8d2bb2c93571ac471be2cd091a50719b82ff85ba0",
+      "sha256": "4ab76dea53258001528389d8d2bb2c93571ac471be2cd091a50719b82ff85ba0",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/relume/Testimonial43.tsx",
+      "sourceSha256": "1e8e9ce1029e7fdce82cee01258af020aac525e96e548a8227612075171aa7d7",
+      "sha256": "1e8e9ce1029e7fdce82cee01258af020aac525e96e548a8227612075171aa7d7",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/relume/Team13.tsx",
+      "sourceSha256": "cedad7faeab84b429d6be3755f862f892ff7d450171fe27be91e2c3a08018e2f",
+      "sha256": "cedad7faeab84b429d6be3755f862f892ff7d450171fe27be91e2c3a08018e2f",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/relume/Pricing27.tsx",
+      "sourceSha256": "6ff8d95e0e1376c3d58fe8a07daff766943a12865d04a3e347ff7ed3145a044b",
+      "sha256": "6ff8d95e0e1376c3d58fe8a07daff766943a12865d04a3e347ff7ed3145a044b",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/relume/Footer3.tsx",
+      "sourceSha256": "416eae6f362a886dfd95b99ac260487ce153770366e401e8e670013622e8ad0d",
+      "sha256": "068c1c5dbe51746018dcc91c0c29b60870b824d0fcdc4d90b26621ef6df50797",
+      "compatibilityEdits": 1
+    },
+    {
+      "path": "components/ui/badge.tsx",
+      "sourceSha256": "e24f4fee504f2518be17efc65370a2ee9fdd87a95ec6700882eaf7678d67ec7f",
+      "sha256": "e24f4fee504f2518be17efc65370a2ee9fdd87a95ec6700882eaf7678d67ec7f",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/ui/card.tsx",
+      "sourceSha256": "c8d59760c44fbfd7b092ce73059363b617db1efe2651e9916e0e151dcc4562df",
+      "sha256": "c8d59760c44fbfd7b092ce73059363b617db1efe2651e9916e0e151dcc4562df",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/ui/carousel.tsx",
+      "sourceSha256": "0dff8a444c7dfa8b542ee3ce9972ab4dc8b07b1db81dbbd95d298dde2c3efd26",
+      "sha256": "0dff8a444c7dfa8b542ee3ce9972ab4dc8b07b1db81dbbd95d298dde2c3efd26",
+      "compatibilityEdits": 0
+    },
+    {
+      "path": "components/ui/tabs.tsx",
+      "sourceSha256": "dc96ff94e6c4f64db0efa6572c331e7041c35eef0a9ec881db509e5b3d8796de",
+      "sha256": "dc96ff94e6c4f64db0efa6572c331e7041c35eef0a9ec881db509e5b3d8796de",
+      "compatibilityEdits": 0
+    }
+  ],
+  "dependencies": [
+    "@radix-ui/react-slot",
+    "@radix-ui/react-tabs",
+    "class-variance-authority@0.7.1",
+    "clsx@^2.1.1",
+    "embla-carousel-react@^8.5.2",
+    "motion@^12.15.0",
+    "relume-icons@1.3.0",
+    "tailwind-merge@^2.2.2"
+  ]
+}
